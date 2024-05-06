@@ -26,5 +26,5 @@ This code demonstrates how to perform linear regression using the Minimum Sum Sq
 1. Ensure you have Python installed on your system.
 2. Install the required libraries (`numpy`, `matplotlib`) if not already installed.
 
-![Linear Regression Image](Linear_regression-with-MSSE/img/MSSE.png)
+![Linear Regression Image](img/MSSE.png)
 
