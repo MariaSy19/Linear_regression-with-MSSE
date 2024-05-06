@@ -2,6 +2,7 @@
 # Linear Regression with Minimum Sum Squares Technique
 
 This code demonstrates how to perform linear regression using the Minimum Sum Squares Technique (MSSE) to obtain the equation of the line that best fits a set of training data points. It also includes a section to add noise to the data and observe its effect on the regression model.
+![Linear Regression Image](img/MSSE.png)
 
 ## Part I: Original Linear Equation
 
@@ -26,5 +27,5 @@ This code demonstrates how to perform linear regression using the Minimum Sum Sq
 1. Ensure you have Python installed on your system.
 2. Install the required libraries (`numpy`, `matplotlib`) if not already installed.
 
-![Linear Regression Image](img/MSSE.png)
+
 
